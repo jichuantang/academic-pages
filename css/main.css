@@ -358,10 +358,8 @@ footer {
 
 /* Projects page --------------------------------------------------------- */
 #projects .panel {
-  margin-left: 2rem;
-  width: 100%; 
-  max-width: 900px; 
-  margin: 0 auto;
+  /* margin-left: 2rem; */
+  box-sizing: border-box;
 }
 
 #projects .panel-default {
