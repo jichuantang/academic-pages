@@ -358,8 +358,7 @@ footer {
 
 /* Projects page --------------------------------------------------------- */
 #projects .panel {
-  /* margin-left: 2rem; */
-  box-sizing: border-box;
+  margin-left: 2rem;
 }
 
 #projects .panel-default {
