@@ -359,7 +359,9 @@ footer {
 /* Projects page --------------------------------------------------------- */
 #projects .panel {
   margin-left: 2rem;
-  min-height: 400px; 
+  width: 100%; 
+  max-width: 900px; 
+  margin: 0 auto;
 }
 
 #projects .panel-default {
